@@ -10,7 +10,7 @@ All evaluation is performed with **Perplexity (PP)** on the **test** set. Valida
 
 ---
 
-## Results (from `NLP_HW_2.ipynb`)
+## Results (from `N-Gram Language Modeling.py`)
 
 | Model | Dev PP | Test PP |
 |---|---:|---:|
@@ -34,8 +34,8 @@ Generated sentences (5) from best model (Linear Interpolation) are included in t
 
 ```
 .
-├─ NLP_HW_2.ipynb               # Main notebook — all parts runnable independently
-├─ NLP_HW2_Final_Report.tex     # Overleaf-ready LaTeX report (complete)
+├─ N-Gram Language Modeling.py               # Main notebook — all parts runnable independently
+├─ N_Gram_Language_Modeling_and_Evaluation_Report.tex     # Report
 └─ README.md                    # This file
 ```
 
