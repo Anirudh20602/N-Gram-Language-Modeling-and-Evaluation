@@ -69,7 +69,7 @@ If needed, upload to Colab via the left file pane or with Python I/O and ensure 
 
 ## How to Run (Google Colab)
 
-1. **Open the notebook** `NLP_HW_2.ipynb` in Google Colab.
+1. **Open the notebook** `N-Gram Language Modeling.py` in Google Colab.
 2. **Upload the dataset files** to the exact paths:
    - `/content/ptb.train.txt`
    - `/content/ptb.valid.txt`
@@ -109,7 +109,7 @@ Each major section is **self-contained**. You can run only that cell if you:
    /content/ptb.valid.txt
    /content/ptb.test.txt
    ```
-4. Open and run `NLP_HW_2.ipynb` as in Colab.
+4. Open and run `N-Gram Language Modeling.py` as in Colab.
 
 > **Tip**: If you are running locally and prefer project-relative paths, change the constants:
 > ```python
@@ -142,17 +142,3 @@ Each major section is **self-contained**. You can run only that cell if you:
 - **Memory/Speed**: On PTB, counting with `Counter` is fast and light. If needed, reduce memory by streaming sentences line‑by‑line.
 
 ---
-
-## Compiling the LaTeX Report
-
-You can upload `NLP_HW2_Final_Report.tex` to **Overleaf** and compile with default settings.  
-The report already includes:
-- Introduction, Dataset/Preprocessing
-- Methods for 3.1–3.2
-- Full Results (with your actual PP values)
-- Analysis (4.1–4.4)
-- Compliance checklist
-- Conclusion
-
-## License
-This homework scaffold and code are provided for educational use in the course context.
