@@ -1,5 +1,5 @@
 
-# NLP Homework 2 — N-Gram Language Modeling and Evaluation
+# N-Gram Language Modeling and Evaluation
 
 This repository contains the full implementation for **Homework 2**: training and evaluating N-gram Language Models on the **Penn Treebank (PTB)** dataset using:
 - **3.1** Maximum Likelihood Estimation (MLE) for N = 1, 2, 3, 4
@@ -39,7 +39,7 @@ Generated sentences (5) from best model (Linear Interpolation) are included in t
 └─ README.md                    # This file
 ```
 
-> If you are using Google Colab, you only need the notebook **NLP_HW_2.ipynb** and the three PTB text files at the specified paths.
+> If you are using Google Colab, you only need the notebook **N-Gram Language Modeling.py** and the three PTB text files at the specified paths.
 
 ---
 
