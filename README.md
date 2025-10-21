@@ -34,9 +34,9 @@ Generated sentences (5) from best model (Linear Interpolation) are included in t
 
 ```
 .
-├─ N-Gram Language Modeling.py               # Main notebook — all parts runnable independently
+├─ N-Gram Language Modeling.py                            # Main notebook — all parts runnable independently
 ├─ N_Gram_Language_Modeling_and_Evaluation_Report.tex     # Report
-└─ README.md                    # This file
+└─ README.md                                              # This file
 ```
 
 > If you are using Google Colab, you only need the notebook **N-Gram Language Modeling.py** and the three PTB text files at the specified paths.
